@@ -1,0 +1,22 @@
+
+Q
+java:S3740&"/Provide the parametrized type for this generic.(ÒõÆÛıÿÿÿÿ8½Š¿øç1
+l
+java:S1192¬"IDefine a constant instead of duplicating this literal "quantity" 3 times.(«Ú¢Úùÿÿÿÿ8‘éàøç1
+l
+java:S1192p"JDefine a constant instead of duplicating this literal "Vegetable" 5 times.(øàÙøÿÿÿÿ8½Š¿øç1
+s
+java:S1450*"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¶ÃÊ8ÖŠ¿øç1
+}
+java:S1450'"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8ÖŠ¿øç1
+
+java:S1450("]Remove the "viewCartButton" field and declare it as a local variable in the relevant methods.(“õÔíúÿÿÿÿ8¨¢©ùç1
+X
+java:S1874."6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ8ÚŠ¿øç1
+X
+java:S1874K"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ8âŠ¿øç1
+O
+java:S1874L"2Remove this use of "setMessage"; it is deprecated.(¢™âÆ8âŠ¿øç1
+J
+java:S1602´",Remove useless curly braces around statement(§ÀÇ8Â¢©ùç1
+Y	java:S125µ"<This block of commented-out lines of code should be removed.(äõ˜…8Â¢©ùç1

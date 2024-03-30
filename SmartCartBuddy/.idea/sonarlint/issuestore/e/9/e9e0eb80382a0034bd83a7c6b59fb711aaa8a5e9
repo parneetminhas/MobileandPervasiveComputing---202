@@ -1,0 +1,15 @@
+
+Q
+java:S3740$"/Provide the parametrized type for this generic.(ÒõÆÛýÿÿÿÿ8À°ðúç1
+X
+java:S1874,"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ8Ó°ðúç1
+X
+java:S1874@"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ðúÿÿÿÿ8×°ðúç1
+T
+java:S1874A"2Remove this use of "setMessage"; it is deprecated.(¿ÒåŒúÿÿÿÿ8×°ðúç1
+^
+java:S1854w"<Remove this useless assignment to local variable "cartItem".(ƒÝÛüÿÿÿÿ8Îç£ûç1
+X	java:S125t"<This block of commented-out lines of code should be removed.(Æ´ÝÜ8§ðóúç1
+O
+java:S1481w"-Remove this unused "cartItem" local variable.(ƒÝÛüÿÿÿÿ8Ïç£ûç1
+]	java:S125x"<This block of commented-out lines of code should be removed.(ß¬ìûÿÿÿÿ8™Ööúç1
